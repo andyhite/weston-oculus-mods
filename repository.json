@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "root": { "ref": "o:1", "type": "t:1" },
+  "objects": {
+    "o:1": {
+      "title": "curated mods.io",
+      "description": "Curated list from mods.io since there's no search in bonelab",
+      "mods": [{ "ref": "o:5535", "type": "t:2" }],
+      "isa": { "type": "t:1" }
+    },
+    "o:5535": {
+      "barcode": "TheStickmann.CursedGlocks",
+      "title": "<size=0%>000000019</size>The Cursed Glock Pack (Avatar Deletus Update)\n  <mspace=-0.2>\u25ac\ua71c</mspace>    183985",
+      "description": "Adds a few strange and somewhat cursed Glock variants to the game",
+      "author": "TheStickmann",
+      "version": "1.7.0",
+      "sdkVersion": "0.3.7-1748",
+      "internal": false,
+      "tags": [],
+      "thumbnailUrl": "https://thumb.modcdn.io/mods/f908/2436899/crop_128x128/cursedglocksthumbnail.1.png",
+      "manifestUrl": "https://blrepo.laund.moe/pallets/4307308_0.json",
+      "targets": {
+        "pc": { "ref": "o:5533", "type": "t:3" },
+        "oculus-quest": { "ref": "o:5534", "type": "t:3" }
+      },
+      "isa": { "type": "t:2" }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Forklift.Model.ModRepository, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Forklift.Model.ModListing, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:3": {
+      "type": "t:3",
+      "fullname": "SLZ.Marrow.Forklift.Model.DownloadableModTarget, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
