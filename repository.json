@@ -8,6 +8,16 @@
       "mods": [{ "ref": "o:5535", "type": "t:2" }],
       "isa": { "type": "t:1" }
     },
+    "o:5533": {
+      "thumbnailOverride": null,
+      "url": "https://binary.modcdn.io/mods/f908/2436899/thestickmann.cursedglockspcvr-dfkr.zip",
+      "isa": { "type": "t:3" }
+    },
+    "o:5534": {
+      "thumbnailOverride": null,
+      "url": "https://binary.modcdn.io/mods/f908/2436899/thestickmann.cursedglocksquest-encn.zip",
+      "isa": { "type": "t:3" }
+    },
     "o:5535": {
       "barcode": "TheStickmann.CursedGlocks",
       "title": "<size=0%>000000019</size>The Cursed Glock Pack (Avatar Deletus Update)\n  <mspace=-0.2>\u25ac\ua71c</mspace>    183985",
