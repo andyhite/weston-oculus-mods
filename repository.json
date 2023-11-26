@@ -8,7 +8,8 @@
       "mods": [
         { "ref": "o:5535", "type": "t:2" },
         { "ref": "o:11210", "type": "t:2" },
-        { "ref": "o:18504", "type": "t:2" }
+        { "ref": "o:18504", "type": "t:2" },
+        { "ref": "o:492", "type": "t:2" }
       ],
       "isa": { "type": "t:1" }
     },
@@ -90,6 +91,33 @@
       "targets": {
         "pc": { "ref": "o:18502", "type": "t:3" },
         "oculus-quest": { "ref": "o:18503", "type": "t:3" }
+      },
+      "isa": { "type": "t:2" }
+    },
+    "o:490": {
+      "thumbnailOverride": null,
+      "url": "https://binary.modcdn.io/mods/7477/2387904/theeagle.deadpoolavatar.zip",
+      "isa": { "type": "t:3" }
+    },
+    "o:491": {
+      "thumbnailOverride": null,
+      "url": "https://binary.modcdn.io/mods/7477/2387904/theeagle.deadpoolavatar.1.zip",
+      "isa": { "type": "t:3" }
+    },
+    "o:492": {
+      "barcode": "TheEagle.DeadpoolAvatar",
+      "title": "<size=0%>000000687</size>Deadpool (Best Quality) (Quest / PCVR)\n  <mspace=-0.2>\u25ac\ua71c</mspace>    8485",
+      "description": "Play as Deadpool aka Wade Wilson in Bonelabs!",
+      "author": "TheEagle",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.4-1649",
+      "internal": false,
+      "tags": [],
+      "thumbnailUrl": "https://thumb.modcdn.io/mods/7477/2387904/crop_128x128/deadpoolthumbnail.png",
+      "manifestUrl": "https://blrepo.laund.moe/pallets/2992911_0.json",
+      "targets": {
+        "pc": { "ref": "o:490", "type": "t:3" },
+        "oculus-quest": { "ref": "o:491", "type": "t:3" }
       },
       "isa": { "type": "t:2" }
     },
